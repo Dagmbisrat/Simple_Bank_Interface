@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App.project.App",
+            "projectName": "Lab5_57bc549e"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "coe528.project.App",
+            "projectName": "Lab5_57bc549e",
+            "vmArgs": "--module-path \"/Users/dagm/Documents/Workspace/Libraries/javafx-sdk-21.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Manager",
+            "request": "launch",
+            "mainClass": "coe528.project.Manager",
+            "projectName": "Lab5_57bc549e"
+        },
+        {
+            "type": "java",
+            "name": "Customer",
+            "request": "launch",
+            "mainClass": "coe528.project.Customer",
+            "projectName": "Lab5_57bc549e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BankAccountFX",
+            "request": "launch",
+            "mainClass": "coe528.project.BankAccountFX",
+            "projectName": "Lab5_57bc549e"
+        }
+    ]
+}
