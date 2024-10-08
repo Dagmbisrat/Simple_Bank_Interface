@@ -1,3 +1,5 @@
+# Simple Bank Interface
+
 This project implements a basic banking system interface built in Java using JavaFX. It allows users to perform 
 fundamental banking operations such as creating accounts, managing balances, and processing deposits and withdrawals. 
 The interface provides a simple, user-friendly platform to simulate essential banking functions.
